@@ -1,2 +1,2 @@
 # Book Store
-Book library integrated with MongoDB and querying via CLI using using Nodejs
+Book library integrated with MongoDB and querying via CLI using Nodejs
