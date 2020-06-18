@@ -1,2 +1,2 @@
-# book-store
-Adding books to MongoDB via CLI using using Nodejs
+# Book Store
+Book library integrated with MongoDB and querying via CLI using using Nodejs
